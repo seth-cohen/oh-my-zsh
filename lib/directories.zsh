@@ -13,7 +13,10 @@ alias 1='cd ~/Wayfair/codebase/php'
 alias 2='cd ~/Wayfair/codebase/resources'
 alias 3='cd ~/Wayfair/codebase/templates'
 alias 4='cd ~/Wayfair/codebase/resources_image_storage'
+<<<<<<< HEAD
 alias 4='cd -4'
+=======
+>>>>>>> added image storage repo
 alias 5='cd -5'
 alias 6='cd -6'
 alias 7='cd -7'
