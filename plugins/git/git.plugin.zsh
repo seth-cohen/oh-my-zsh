@@ -155,7 +155,6 @@ compdef _git ggu=git-checkout
 alias ggpur='ggu'
 compdef _git ggpur=git-checkout
 
-alias gh='git help'
 alias ggpull='git pull origin $(git_current_branch)'
 compdef _git ggpull=git-checkout
 
